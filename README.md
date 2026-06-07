@@ -33,3 +33,7 @@ The official CRC32 format requires reversing the byte order of the standard CRC3
 
 - Python 3.x
 - No additional dependencies required
+
+## Acknowledgments
+
+Special thanks to LegendsNeveerrDie for providing the idea and inspiration for this tool.

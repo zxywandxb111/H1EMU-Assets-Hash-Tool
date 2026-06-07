@@ -1,0 +1,9 @@
+
+# Ignore large asset pack files
+Assets_*.pack
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+.DS_Store
